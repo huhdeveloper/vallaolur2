@@ -1284,7 +1284,7 @@
 .buttons2.steambutton {
   padding-right: 90px;
   padding-left: 90px;
-  background-image: url('../images/downlad.png'), url('../images/Button3.png');
+  background-image: url('../images/download.png'), url('../images/Button3.png');
   background-position: 45% 54%, 50% 50%;
   background-size: 90px, contain;
   -webkit-transition: -webkit-transform 300ms ease-in-out;
